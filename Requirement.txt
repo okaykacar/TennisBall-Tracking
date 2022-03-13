@@ -1,0 +1,5 @@
+-opencv
+-pyqt5
+-imutils
+-pyside2
+-numpy
